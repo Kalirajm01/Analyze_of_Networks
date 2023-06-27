@@ -4,16 +4,16 @@
 
 => A subnet mask is a 32-bit number created by setting host bits to all 0s and setting network bits to all 1s. A broadcast address is a network address used to transmit to all devices connected to a multiple-access communications network. A message sent to a broadcast address may be received by all network-attached hosts.
 
-Subnets        Number of Hosts
+**Subnets        Number of Hosts**
 
-Subnet A        No computer
-
-Subnet B        No computer
-
-Subnet C        No computer
-
-Subnet D        1 server and 4 computers
-
-Subnet E        1 server and 18 computers
-
-Subnet F        1 server and 20 computers
+> Subnet A        No computer
+> 
+> Subnet B        No computer
+> 
+> Subnet C        No computer
+> 
+> Subnet D        1 server and 4 computers
+> 
+> Subnet E        1 server and 18 computers
+> 
+> Subnet F        1 server and 20 computers
