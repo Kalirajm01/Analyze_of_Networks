@@ -17,3 +17,6 @@
 > Subnet E        1 server and 18 computers
 > 
 > Subnet F        1 server and 20 computers
+
+**NETWORK TABLE**
+<img width="388" alt="image" src="https://github.com/Kalirajm01/Analyze_of_Networks/assets/92640470/eaad4269-f005-465a-bcd1-2811583b74e5">
