@@ -1,1 +1,5 @@
 # Analyze_of_Networks
+
+=> Packet Tracer is a cross-platform visual simulation tool designed by Cisco Systems that allows users to create network topologies and imitate modern computer networks. The software allows users to simulate the configuration of Cisco routers and switches using a simulated command line interface. So here we have used Packet Tracer to design and analyze a network.
+
+=> A subnet mask is a 32-bit number created by setting host bits to all 0s and setting network bits to all 1s. A broadcast address is a network address used to transmit to all devices connected to a multiple-access communications network. A message sent to a broadcast address may be received by all network-attached hosts.
